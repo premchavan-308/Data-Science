@@ -1,4 +1,4 @@
-# Pandas for Data Science
+# Data Science
 
 This repository contains hands-on data analysis projects and notebooks using **Python Pandas**.
 It demonstrates real-world data cleaning, transformation, and exploratory data analysis techniques.
@@ -18,6 +18,7 @@ It demonstrates real-world data cleaning, transformation, and exploratory data a
 - Pandas
 - NumPy
 - Matplotlib
+- Seaborn
 - Jupyter Notebook
 - Google Colab
 - Kaggle
