@@ -1,17 +1,23 @@
 # Data Science
 
-This repository contains hands-on data analysis projects and notebooks using **Python Pandas**.
-It demonstrates real-world data cleaning, transformation, and exploratory data analysis techniques.
+This repository is a collection of my hands-on practice sessions, exercises, and projects using the core Python data science ecosystem. My goal is to master data manipulation, numerical computing, and impactful storytelling through visualization.
 
 ## 📌 Topics Covered
-- Data loading and inspection
-- Data cleaning and preprocessing
-- Handling missing values
-- GroupBy and aggregation
-- Merging and joining datasets
-- Time series analysis
-- Exploratory Data Analysis (EDA)
-- Case studies using real datasets
+🧱 NumPy
+Creating and manipulating N-dimensional arrays.
+Vectorized operations and broadcasting for performance.
+Array indexing, slicing, and reshaping.
+
+🐼 Pandas
+Data cleaning: Handling missing values, duplicates, and type conversion.
+Advanced indexing and filtering of DataFrames.
+Using .groupby() and pivot tables for data aggregation.
+
+🎨 Data Visualization
+Matplotlib: Creating line plots, scatter plots, and customizing axes/labels.
+
+Seaborn: Plotting statistical relationships (heatmaps, boxplots, violin plots).
+Improving aesthetics and color palettes for better readability.
 
 ## 🛠 Tools & Libraries
 - Python
